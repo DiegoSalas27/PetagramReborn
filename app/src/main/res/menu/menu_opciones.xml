@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mStar"
+        android:icon="@drawable/ic_action_name"
+        android:orderInCategory="3"
+        android:title="@string/star"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mAcercade"
+        android:title="@string/acerca_de"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/mContacto"
+        android:title="@string/contacto"
+        android:orderInCategory="2"/>
+
+</menu>

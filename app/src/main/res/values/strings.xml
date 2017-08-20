@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="contacto">Contacto</string>
+    <string name="star">Star</string>
+    <string name="username_validation_message">El nombre completo es obligatorio</string>
+    <string name="email_validation_message">El email es obligatorio</string>
+    <string name="comment_validation_message">El comentario es obligatorio</string>
+    <string name="subject_validation_message">El asunto es obligatorio</string>
+    <string name="password_validation_message">El password es obligatorio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fabrizio">Fabrizio</string>
+</resources>
